@@ -1,0 +1,28 @@
+* {
+    text-align: center;
+    background-image: url(https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-size: cover;
+    font-family: Cambria, Cochi;
+    font-weight: bold;
+}
+
+
+button {
+    border: 1.5;
+    border-radius: 5px;
+    border-color: rgba(0, 0, 255, 0.291);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    background: none;
+}
+
+/*#numbers {
+    display: flex;
+}*/
+p {
+    background: none;
+    font-size: medium;
+}
